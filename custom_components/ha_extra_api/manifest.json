@@ -1,0 +1,11 @@
+{
+  "domain": "ha_extra_api",
+  "name": "Home Assistant Extra API",
+  "documentation": "https://github.com/amosyuen/ha-extra-api",
+  "issue_tracker": "https://github.com/amosyuen/ha-extra-api/issues",
+  "config_flow": true,
+  "codeowners": ["@amosyuen"],
+  "dependencies": [],
+  "iot_class": "local_push",
+  "version": "0.0.0"
+}

@@ -1,0 +1,33 @@
+# Services.yaml for ha_extra_api integration
+
+update_entity:
+  description: Update entity
+  target:
+    entity:
+      multiple: true
+  fields:
+    aliases:
+      name: Aliases
+      selector:
+        text:
+          multiple: true
+    area:
+      name: Area
+      selector:
+        area:
+    icon:
+      name: Icon
+      selector:
+        icon:
+    name:
+      name: Name
+      selector:
+        text:
+    status:
+      name: Status
+      selector:
+        select:
+          options:
+            - disabled
+            - enabled
+            - hidden
