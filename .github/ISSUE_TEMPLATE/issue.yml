@@ -1,5 +1,5 @@
-name: Report an issue with Home Assistant Extra API
-description: Report an issue with Home Assistant Extra API
+name: Report an issue with Home Assistant Registry
+description: Report an issue with Home Assistant Registry
 body:
   - type: markdown
     attributes:
@@ -23,7 +23,7 @@ body:
     validations:
       required: true
     attributes:
-      label: Home Assistant Extra API Version
+      label: Home Assistant Registry Version
       placeholder: e.g. v2.2.5
   - type: markdown
     attributes:

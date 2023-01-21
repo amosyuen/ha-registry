@@ -1,6 +1,6 @@
 {
-  "name": "Home Assistant Extra API",
+  "name": "Home Assistant Registry",
   "hacs": "1.6.0",
-  "homeassistant": "0.118.0",
+  "homeassistant": "2023.1.0",
   "render_readme": true
 }

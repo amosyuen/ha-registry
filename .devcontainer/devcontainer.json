@@ -1,7 +1,7 @@
 // See https://aka.ms/vscode-remote/devcontainer.json for format details.
 {
   "image": "ghcr.io/ludeeus/devcontainer/integration:stable",
-  "name": "Home Assistant Extra API integration development",
+  "name": "Home Assistant Registry integration development",
   "context": "..",
   "appPort": ["9123:8123"],
   "postCreateCommand": ".devcontainer/setup.sh",
