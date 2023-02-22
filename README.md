@@ -30,7 +30,7 @@ Remove all targeted entity registry configs,
 `entity_id` is a repeated field that takes comma separated values in a string or a yaml list
 
 ```yaml
-service: ha_registry.updateremove_entity_entity
+service: ha_registry.remove_entity
 data:
   entity_id:
     - sensor.bathroom_temperature
