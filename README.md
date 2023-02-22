@@ -70,16 +70,13 @@ data:
 
 1. Install [HACS](https://hacs.xyz/)
 2. Go to HACS "Integrations >" section
-3. Click 3 dots in top right
-4. Click "Custom repositories"
-5. Add repository https://github.com/amosyuen/ha-registry with category `Integration`
-6. In the lower right click "+ Explore & Download repositories"
-7. Search for "Home Assistant Registry" and add it
+3. In the lower right click "+ Explore & Download repositories"
+4. Search for "Home Assistant Registry" and add it
    - HA Restart is not needed since it is configured in UI config flow
-8. In the Home Assistant (HA) UI go to "Configuration"
-9. Click "Integrations"
-10. Click "+ Add Integration"
-11. Search for "Home Assistant Registry"
+5. In the Home Assistant (HA) UI go to "Configuration"
+6. Click "Integrations"
+7. Click "+ Add Integration"
+8. Search for "Home Assistant Registry"
 
 ### Manual
 
