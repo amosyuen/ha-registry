@@ -1,11 +1,11 @@
 {
   "domain": "ha_registry",
   "name": "Home Assistant Registry",
-  "documentation": "https://github.com/amosyuen/ha-registry",
-  "issue_tracker": "https://github.com/amosyuen/ha-registry/issues",
-  "config_flow": true,
   "codeowners": ["@amosyuen"],
+  "config_flow": true,
   "dependencies": [],
+  "documentation": "https://github.com/amosyuen/ha-registry",
   "iot_class": "local_push",
+  "issue_tracker": "https://github.com/amosyuen/ha-registry/issues",
   "version": "1.0.0"
 }
