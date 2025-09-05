@@ -13,6 +13,9 @@
 
 [![Community Forum][forum-shield]][forum]
 
+> [!IMPORTANT]
+> This integration is archived in favor of https://spook.boo
+
 ## Description
 
 Adds services for home assistant registry operations.
